@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+:root{
+    --color_principal:black;
+    --color_secundario:gray;
+    --color_texto:white;
+}
+.logoprincipal{
+    width:60%;
+}
+.logo{
+    width: 60px;
+    height: 60px;
+}
